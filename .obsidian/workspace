@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "f295872d84ca4bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4082faf707a08afe",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d9c7e3bd305d495",
+    "type": "split",
+    "children": [
+      {
+        "id": "761c808e87049d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c0ea9a97ba3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2777cad230b9db0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fef268cd52194391",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eee989c91698240d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0d857be3ffe2dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632589e333c82912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24f499e1d2f76e42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00a05130bb433ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfb16a8e6db30c4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4082faf707a08afe",
+  "lastOpenFiles": [
+    "Vim/Vim.md",
+    "Vim/hotkeys.md",
+    "Vim/vimrc file.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}

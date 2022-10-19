@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "f295872d84ca4bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec975707ff68d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f32f6b133e09070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/How To Make Vim Amazing From Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d9c7e3bd305d495",
+    "type": "split",
+    "children": [
+      {
+        "id": "761c808e87049d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c0ea9a97ba3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2777cad230b9db0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fef268cd52194391",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eee989c91698240d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0d857be3ffe2dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632589e333c82912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vim/How To Make Vim Amazing From Scratch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24f499e1d2f76e42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vim/How To Make Vim Amazing From Scratch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00a05130bb433ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfb16a8e6db30c4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vim/How To Make Vim Amazing From Scratch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1f32f6b133e09070",
+  "lastOpenFiles": [
+    "Vim/hotkeys.md",
+    "Vim/vimrc file.md",
+    "Vim/How To Make Vim Amazing From Scratch.md",
+    "Golang/Hot reload configuration.md",
+    "Images/go air.png",
+    "README.md",
+    "Elastic/Elasticsearch (ES).md",
+    "Elastic/ELK (Elasticsearch-logstash-kibana).md",
+    "Elastic/Elasticsearch client with Golang & java.md",
+    "Elastic/Logstash.md"
+  ]
+}
